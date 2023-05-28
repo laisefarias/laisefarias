@@ -1,17 +1,15 @@
 ### Hi there 👋
 ![Captura de tela 2023-05-28 013831](https://github.com/laisefarias/laisefarias/assets/134656901/f439a709-2aa4-4640-8ee2-849b36be4ed9)
 
-<!--
-**laisefarias/laisefarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Laise Farias!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I'm a passionate developer and love to create amazing projects. Here, you can find some of my latest works and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming languages: Python, JavaScript, Java
+- Web technologies: HTML, CSS, React
+- Databases: MySQL, MongoDB
+
+## Projects
+
